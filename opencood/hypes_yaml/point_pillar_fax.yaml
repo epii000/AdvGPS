@@ -1,8 +1,8 @@
 name: 7.CoBEVT_PAA #3.CoBEVT_load_voxelNet_Advgps_mean+3std_all #AdvGRL_v2xvit
-save_path: /home/jinlongli/2.model_saved/3.Attack_V2V2023
-root_dir: /home/jinlongli/opv2v_data_dumping/train # /home/jinlongli/opv2v_data_dumping/train
-root_dir_target: /home/jinlongli/opv2v_data_dumping/train  #/home/jinlongli/V2V4Real/train  #/home/jinlongli/V2V4Real/train
-validate_dir: /home/jinlongli/personal/DATASet/opv2v_data_dumping/test_culver_city
+save_path: /home/miajun/hantang/Model_Saved/3.Attack_V2V2023
+root_dir: /home/miajun/hantang/opv2v_data_dumping/train 
+root_dir_target: /home/miajun/hantang/opv2v_data_dumping/train  
+validate_dir: /home/miajun/hantang/opv2v_data_dumping/test_culver_city
 # wild_setting:
 #   async: false
 #   async_overhead: 100

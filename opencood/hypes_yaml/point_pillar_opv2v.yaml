@@ -1,8 +1,8 @@
 name: 1.attfuse_SOK_all #test_xy_2mmd #1.attfuse_mmd_xy #1.attfuse_bp_ryp #1.attfuse_random_ryp #BP_attack_9 #1.testing_[-20to20] #testing_10iters_rollyawpitch #attack_num_iter_10_step_size_1_rollyawpitch #x, y, z, roll, yaw, pitch  1.attfuse_attack_iter20_step0.01 #attfuse_fintune_voxel  #testing #openv2v_opv2v_attack #testing #openv2v
-save_path: /home/jinlongli/2.model_saved/3.Attack_V2V2023
-root_dir: /home/jinlongli/opv2v_data_dumping/train
-root_dir_target: /home/jinlongli/opv2v_data_dumping/train #/home/jinlongli/V2V4Real/train
-validate_dir: /home/jinlongli/personal/DATASet/opv2v_data_dumping/test_culver_city #/home/jinlongli/opv2v_data_dumping/test_culver_city  #/home/jinlongli/V2V4Real/test  #/home/jinlongli/opv2v_data_dumping/test_culver_city  #/home/jinlongli/V2V4Real/test
+save_path: /home/miajun/hantang/Model_Saved/3.Attack_V2V2023
+root_dir: /home/miajun/hantang/opv2v_data_dumping/train
+root_dir_target: /home/miajun/hantang/opv2v_data_dumping/train #/home/jinlongli/V2V4Real/train
+validate_dir: /home/miajun/hantang/opv2v_data_dumping/test_culver_city #/home/jinlongli/opv2v_data_dumping/test_culver_city  #/home/jinlongli/V2V4Real/test  #/home/jinlongli/opv2v_data_dumping/test_culver_city  #/home/jinlongli/V2V4Real/test
 
 # wild_setting:
 #   async: false
